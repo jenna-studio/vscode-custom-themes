@@ -1,0 +1,35 @@
+{
+  "name": "pink-blush",
+  "displayName": "Pink Blush",
+  "description": "A soft pastel pink light theme with Dracula-inspired syntax highlighting.",
+  "version": "1.0.0",
+  "publisher": "jenna-studio",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "pink",
+    "pastel",
+    "dracula"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenna-studio/vscode-themes"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Blush",
+        "uiTheme": "vs",
+        "path": "./themes/pink-blush-color-theme.json"
+      }
+    ]
+  }
+}
