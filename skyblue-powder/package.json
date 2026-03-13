@@ -1,0 +1,36 @@
+{
+  "name": "skyblue-powder",
+  "displayName": "Skyblue Powder",
+  "description": "A soft pastel sky blue light theme with Dracula-inspired syntax highlighting and diverse font weights.",
+  "version": "1.0.0",
+  "publisher": "jenna-studio",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "blue",
+    "skyblue",
+    "pastel",
+    "dracula"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenna-studio/vscode-themes"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Skyblue Powder",
+        "uiTheme": "vs",
+        "path": "./themes/skyblue-powder-color-theme.json"
+      }
+    ]
+  }
+}
