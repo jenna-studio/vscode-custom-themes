@@ -96,8 +96,8 @@ Search for the theme name in the VS Code Extensions panel:
 ### From Source
 
 ```bash
-git clone https://github.com/jenna-studio/vscode-themes.git
-cd vscode-themes
+git clone https://github.com/jenna-studio/vscode-custom-themes.git
+cd vscode-custom-themes
 
 # Install only the theme you want:
 cd pink-blush        # or: cd skyblue-powder
